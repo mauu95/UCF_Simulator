@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/_menu.unity
+    guid: 1401b4b1e8ded0e4cac24cd24fc3ba4b
+  - enabled: 1
+    path: Assets/Scenes/AsymmetryOddN_Build.unity
+    guid: e12ba30941b001941a688a3d7aceccf1
+  - enabled: 1
+    path: Assets/Scenes/AsymmetryEvenn_Build.unity
+    guid: 6db8c43e56103d2409f8b21ccc30bf0c
+  - enabled: 1
+    path: Assets/Scenes/Symmetric1Axis1Pivot_Build.unity
+    guid: 2a890d462ba1fba4fa73e1e750753b0d
+  - enabled: 1
+    path: Assets/Scenes/Symmetric1Axis0Pivot_Build.unity
+    guid: 5ae1cd4d52b43044c8ff4bd5f5ec5dd6
+  - enabled: 1
+    path: Assets/Scenes/Symmetric1Axis2Pivot_Build.unity
+    guid: 03418deb523266544b9a65db044dd168
+  - enabled: 1
+    path: Assets/Scenes/RotationalSymmetry1Minimal_Build.unity
+    guid: 8ff3440945a7b7045afc6534c3672953
+  - enabled: 1
+    path: Assets/Scenes/RotationalSymmetry2Minimal_Build.unity
+    guid: da223389eec7dfd49a311d04ff585e02
+  - enabled: 1
+    path: Assets/Scenes/Random.unity
+    guid: eb42bf0151c457f4b839139d7f617d59
+  - enabled: 1
+    path: Assets/Scenes/Custom.unity
+    guid: c2ff4789d8963fa4ab9453869f240849
+  m_configObjects: {}
